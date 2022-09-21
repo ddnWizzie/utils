@@ -1,4 +1,4 @@
-module wizzie.io/cmx/utils
+module github.com/ddnWizzie/utils
 
 go 1.18
 
